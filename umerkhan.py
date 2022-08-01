@@ -126,13 +126,12 @@ def back():
 def banner():
 	clear()
 	sol()
-	ban='' Â© Brute forse Facebook account
-db    db .88b  d88. d88888b d8888b. 
+	ban=''db    db .88b  d88. d88888b d8888b. 
 88    88 88'YbdP`88 88'     88  `8D 
 88    88 88  88  88 88ooooo 88oobY' 
 88    88 88  88  88 88~~~~~ 88`8b   
 88b  d88 88  88  88 88.     88 `88. 
-~Y8888P' YP  YP  YP Y88888P 88   YD ''
+~Y8888P' YP  YP  YP Y88888P 88   YD''
 	cetak(nel(ban, style='blue'))
 #--------------------[ BAGIAN-MASUK ]--------------#
 def login():
