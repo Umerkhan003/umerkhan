@@ -134,7 +134,7 @@ db    db .88b  d88. d88888b d8888b.
 88    88 88  88  88 88ooooo 88oobY' 
 88    88 88  88  88 88~~~~~ 88`8b   
 88b  d88 88  88  88 88.     88 `88. 
-~Y8888P' YP  YP  YP Y88888P 88   YD       Author: Umer
+~Y8888P' YP  YP  YP Y88888P 88   YD '''
 	cetak(nel(ban, style='blue'))
 #--------------------[ BAGIAN-MASUK ]--------------#
 def login():
@@ -1030,3 +1030,6 @@ if __name__=='__main__':
 	try:os.system('touch .prox.txt')
 	except:pass
 	login()
+
+#>>>>> THANKS TO THIS HERE <<<<<#
+#>>>>> Cowok_pink_13 <<<<<#
